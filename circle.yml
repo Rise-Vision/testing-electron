@@ -1,3 +1,4 @@
+#12.02 configured in project settings
 machine:
   node:
     version: 6.1.0
